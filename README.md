@@ -19,7 +19,7 @@ Example of input:
     
   }
 
-# Links to post values in json object from postman and their output from given example
+# Links to post values in json format from postman, and their respective output from avobe example:
 
 1. http://127.0.0.1:5000/add
 
