@@ -10,15 +10,53 @@ Example of input:
 
   {
   
+  
     "x":20,
+    
     
     "y":25
     
+    
   }
 
-# Links to post values in json object from postman
+# Links to post values in json object from postman and their output from given example
 
 1. http://127.0.0.1:5000/add
+
+{
+
+    "message": 45,
+    
+    "status": "OK"
+    
+}
+
 2. http://127.0.0.1:5000/sub
+
+{
+
+    "message": -5,
+    
+    "status": "OK"
+    
+}
+
 3. http://127.0.0.1:5000/mul
+
+{
+
+    "message": 500,
+    
+    "status": "OK"
+    
+}
+
 4. http://127.0.0.1:5000/div
+
+{
+
+    "message": 0.8,
+    
+    "status": "OK"
+    
+}
